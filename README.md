@@ -17,7 +17,7 @@ Same goes for any errors related to this page.
 
 ## Interactive webpage
 
-It is much more fun to see the data in interactive plots: [Click](https://dustbringer.github.io/web--knot-invariant-comparison/stat/homology)
+It is much more fun to see the data in interactive plots: [Click](https://dustbringer.github.io/web--knot-invariant-comparison/stats/homology)
 
 On that side one can find all the comparison statistics and plots.
 
