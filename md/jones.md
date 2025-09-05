@@ -12,9 +12,6 @@ The script runs on NodeJS using the `pnpm` package manager.
 
 After installing, open a terminal in the `/scripts/evaluator` folder and run `pnpm install` to install the dependencies.
 
-If you like, you can extract the list of knots `PD_3-16.txt` into `/scripts/evaluator/data` and work from there.
-
-
 ## Script Overview
 
 ### Running and Output

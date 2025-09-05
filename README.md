@@ -29,6 +29,7 @@ The invariants used are available under `/invariants`. We only include the polyn
 A majority of the polynomials are stored in a JSON format explained in [this page](md/jones.md). Most of the files are compressed in the `.7z` format.
 
 Other notes
+- Apart from HOMFLYPT homology, the 3-16 data is all calculated from the PD notation database in [KnotInfo](https://knotinfo.org/homelinks/database_download.php)
 - Naming is slightly different from the paper
   - SL3 is called `a2`
   - HFK is called  `hfk2`
