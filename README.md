@@ -1,13 +1,13 @@
-# Code and Erratum for *Rational Khovanov homology detects alternating links with probability zero*
+# Code and Erratum for *On detection probabilities of link invariants*
 
-We collected a bit of data and other things relevant for the paper *Rational Khovanov homology detects alternating links with probability zero*
-<a href="https://example.com">(Coming soon)</a> on this page.
+We collected a bit of data and other things relevant for the paper *On detection probabilities of link invariants*
+<a href="https://https://arxiv.org/abs/2509.05574">https://https://arxiv.org/abs/2509.05574</a> on this page.
 
-An Erratum for the paper *Rational Khovanov homology detects alternating links with probability zero* can be found at the [bottom of the page](#erratum).
+An Erratum for the paper *On detection probabilities of link invariants* can be found at the [bottom of the page](#erratum).
 
 ## Contact
 
-If you find any errors in the paper *Rational Khovanov homology detects alternating links with probability zero* **please email us**:
+If you find any errors in the paper *On detection probabilities of link invariants* **please email us**:
 
 [dtubbenhauer@gmail.com](mailto:dtubbenhauer@gmail.com?subject=[GitHub]%web-reps)
 
