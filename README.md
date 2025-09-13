@@ -9,7 +9,11 @@ An Erratum for the paper *On detection probabilities of link invariants* can be 
 
 If you find any errors in the paper *On detection probabilities of link invariants* **please email us**:
 
+[abel.lacabanne@uca.fr](mailto:abel.lacabanne@uca.fr?subject=[GitHub]%web-reps)
+
 [dtubbenhauer@gmail.com](mailto:dtubbenhauer@gmail.com?subject=[GitHub]%web-reps)
+
+[pedro.vaz@uclouvain.be](mailto:pedro.vaz@uclouvain.be?subject=[GitHub]%web-reps)
 
 [victor.l.zhang@unsw.edu.au](mailto:victor.l.zhang@unsw.edu.au?subject=[GitHub]%web-reps)
 
